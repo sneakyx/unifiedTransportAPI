@@ -16,6 +16,6 @@ This project also aims to ensure that people with disabilities can enjoy comfort
 
 The goal of UnifiedTransportAPI is to make urban mobility more flexible, efficient, and accessible for everyone by connecting different transport options in a standardized way. It strives to reduce empty trips, improve resource usage, and offer a versatile interface for developers of transportation-related apps and services.
 
-## Get Started
+## Status of project
 
-To get started with UnifiedTransportAPI, check the [documentation](#) for setup instructions and API usage examples.
+At the moment this project is only an idea. I have some Code examples in my head, but a lot of research has to be done before writing the first line of code.
