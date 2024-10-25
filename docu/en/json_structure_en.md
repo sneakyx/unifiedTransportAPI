@@ -5,10 +5,11 @@ The JSON files in this project are organized in a structured folder system to ma
 
 ## 1. Folder Structure
 
-- **general/**: Contains general files like `transport_types.json` and `platforms.json`, which are applicable to all regions and projects.
-- **europe/**: Contains country-specific files like `germany.json`, `france.json`, etc., to bundle regional data.
-- **worldwide/**: Contains just the file `worldwide.json` for offers in one or more continents.
+- [**general/**](../../data/general): Contains general files like `transport_types.json` and `platforms.json`, which are applicable to all regions and projects.
+- [**europe/**](../../data/europe): Contains country-specific files like `germany.json`, `france.json`, etc., to bundle regional data.
+- [**worldwide/**](../../data/worldwide): Contains just the file `worldwide.json` for offers in one or more continents.
 
+(It is allowed to add more countries and continents!)
 ## 2. Structure of transport_types.json
 
 The `transport_types.json` file defines the supported transport types:

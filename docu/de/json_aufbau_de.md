@@ -5,9 +5,11 @@ Die JSON-Dateien in diesem Projekt sind in einer klar strukturierten Ordnerstruk
 
 ## 1. Ordnerstruktur
 
-- **general/**: Enthält allgemeine Dateien wie `transport_types.json` und `platforms.json`, die universell für alle Regionen und Projekte gültig sind.
-- **europe/**: Enthält länderspezifische Dateien wie `germany.json`, `france.json` etc., um regionale Daten zu bündeln.
-- **worldwide/**: Enthält nur die Datei `worldwide.json`, die Angebote enthält, die auf mehreren/allen Kontinenten verfügbar sind.
+- [**general/**](../../data/general): Enthält allgemeine Dateien wie `transport_types.json` und `platforms.json`, die universell für alle Regionen und Projekte gültig sind.
+- [**europe/**](../../data/europe): Enthält länderspezifische Dateien wie `germany.json`, `france.json` etc., um regionale Daten zu bündeln.
+- [**worldwide/**](../../data/worldwide): Enthält nur die Datei `worldwide.json`, die Angebote enthält, die auf mehreren/allen Kontinenten verfügbar sind.
+
+(Es dürfen auch weitere Länder und Kontinente hinzugefügt werden!)
 
 ## 2. Aufbau der transport_types.json
 
