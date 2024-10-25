@@ -1,0 +1,106 @@
+{
+    "types": {
+        "bike_sharing": {
+            "de": "Fahrradverleih",
+            "en": "Bike Sharing",
+            "es": "Bicicletas compartidas",
+            "fr": "Partage de vélo"
+        },
+        "bus": {
+            "de": "Bus",
+            "en": "Bus",
+            "es": "Autobús",
+            "fr": "Autobus"
+        },
+        "cable_car": {
+            "de": "Seilbahn",
+            "en": "Cable Car",
+            "es": "Teleférico",
+            "fr": "Téléphérique"
+        },
+        "car_rental": {
+            "de": "Autoverleih",
+            "en": "Car Rental",
+            "es": "Alquiler de coches",
+            "fr": "Location de voiture"
+        },
+        "carpooling": {
+            "de": "Mitfahrgelegenheit",
+            "en": "Carpooling",
+            "es": "Compartir coche",
+            "fr": "Covoiturage"
+        },
+        "community_bus": {
+            "de": "Bürgerbus",
+            "en": "Community Bus",
+            "es": "Autobús comunitario",
+            "fr": "Bus communautaire"
+        },
+        "ferry": {
+            "de": "Fähre",
+            "en": "Ferry",
+            "es": "Ferry",
+            "fr": "Ferry"
+        },
+        "high_speed_train": {
+            "de": "Schnellzug",
+            "en": "High-Speed Train",
+            "es": "Tren de alta velocidad",
+            "fr": "Train à grande vitesse"
+        },
+        "long_distance_bus": {
+            "de": "Fernbus",
+            "en": "Long-Distance Bus",
+            "es": "Autobús de larga distancia",
+            "fr": "Autocar longue distance"
+        },
+        "narrow_gauge_train": {
+            "de": "Schmalspurbahn",
+            "en": "Narrow-Gauge Train",
+            "es": "Tren de vía estrecha",
+            "fr": "Train à voie étroite"
+        },
+        "on_demand_shuttle": {
+            "de": "Bedarfs-Shuttle",
+            "en": "On-Demand Shuttle",
+            "es": "Transporte a demanda",
+            "fr": "Navette à la demande"
+        },
+        "scooter_sharing": {
+            "de": "Rollerverleih",
+            "en": "Scooter Sharing",
+            "es": "Alquiler de scooters",
+            "fr": "Location de scooter"
+        },
+        "subway": {
+            "de": "U-Bahn",
+            "en": "Subway",
+            "es": "Metro",
+            "fr": "Métro"
+        },
+        "suspended_railway": {
+            "de": "Hängebahn",
+            "en": "Suspended Railway",
+            "es": "Ferrocarril suspendido",
+            "fr": "Train suspendu"
+        },
+        "taxi": {
+            "de": "Taxi",
+            "en": "Taxi",
+            "es": "Taxi",
+            "fr": "Taxi"
+        },
+        "train": {
+            "de": "Zug",
+            "en": "Train",
+            "es": "Tren",
+            "fr": "Train"
+        },
+        "tram": {
+            "de": "Straßenbahn",
+            "en": "Tram",
+            "es": "Tranvía",
+            "fr": "Tramway"
+        }
+    }
+}

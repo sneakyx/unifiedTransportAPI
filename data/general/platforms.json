@@ -1,0 +1,11 @@
+{
+    "platforms": {
+        "android": "Android mobile app",
+        "ios": "iOS mobile app",
+        "ivr": "Interactive Voice Response (IVR) for phone-based bookings",
+        "kiosk": "Public kiosk for on-site access",
+        "popup_terminal": "Pop-up terminal at bus stops for on-demand buses",
+        "sms": "SMS-based platform for feature phones",
+        "website": "Web application or website"
+    }
+}

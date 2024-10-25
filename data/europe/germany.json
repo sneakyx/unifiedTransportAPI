@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Berliner Verkehrsbetriebe (BVG)",
+        "description": "Public transport provider for Berlin, offering subway, tram, bus, and ferry services.",
+        "type": ["subway", "tram", "bus"],
+        "platform": ["ios", "android", "website"],
+        "website": "https://www.bvg.de/",
+        "location": {
+            "country": "Germany",
+            "region": "Berlin",
+            "coordinates": [13.4049, 52.5200]
+        }
+    },
+    {
+        "name": "Verkehrsbetriebe Westfalen-Süd (VWS)",
+        "description": "Public transport provider in South Westphalia, covering buses and regional transportation.",
+        "type": ["bus"],
+        "platform": ["ios", "android", "website"],
+        "website": "https://www.vws-siegen.de/",
+        "location": {
+            "country": "Germany",
+            "region": "North Rhine-Westphalia",
+            "coordinates": [8.0243, 50.8748]
+        }
+    }
+]

@@ -4,6 +4,8 @@ The climate crisis requires a better use of existing resources. Not everyone sho
 
 This project also aims to ensure that people with disabilities can enjoy comfortable and accessible transport options, just like those who prefer to drive themselves. The goal is to provide mobility that is inclusive and adaptable to the needs of everyone.
 
+It's **not** about creating yet another app that is an isolated solution for a small section of mobility. It is about creating an all-encompassing mobility solution for everyone. To this end, this project aims to create an interface description or a protocol description that connects all existing, good solutions with each other. Based on this, the existing apps and solutions can then be expanded and truly offer an all-encompassing mobility solution.
+
 ## Key Features
 
 - **Unified API**: Access public transport, ride-sharing, and rental services through a single interface.
@@ -19,3 +21,6 @@ The goal of UnifiedTransportAPI is to make urban mobility more flexible, efficie
 ## Status of project
 
 At the moment this project is only an idea. I have some Code examples in my head, but a lot of research has to be done before writing the first line of code.
+
+More in the docu:
+- [JSON-file-structure](docu/en/json_structure_en.md)

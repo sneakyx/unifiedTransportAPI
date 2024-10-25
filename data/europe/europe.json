@@ -1,0 +1,14 @@
+[
+    {
+        "name": "DB Navigator",
+        "description": "Public transport app for booking trains, regional, and cross-border travel in Germany and Europe.",
+        "type": ["high_speed_train", "train", "subway", "suspended_railway", "bus"],
+        "platform": ["ios", "android", "website"],
+        "website": "https://www.bahn.com/",
+        "location": {
+            "region": "Europe",
+            "country": "Germany",
+            "coordinates": [10.4515, 51.1657]
+        }
+    }
+]
