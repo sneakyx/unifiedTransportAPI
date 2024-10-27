@@ -1,3 +1,4 @@
+![UnifiedTransportAPI-Logo](logo-unified-transport-api.webp)
 # UnifiedTransportAPI
 Die Klimakrise erfordert eine bessere Nutzung bestehender Ressourcen. Nicht jeder sollte von einem eigenen Auto abhängig sein, auch nicht auf dem Land. Jeder sollte das Recht haben, einfach und ohne große Kosten zu jedem Ziel zu Reisen- zu jeder Zeit.
 Egal ob mit dem eigenen PKW oder als Mitfahrer, die wahl sollte frei sein.
@@ -22,6 +23,8 @@ Das Ziel von UnifiedTransportAPI ist es, die urbane Mobilität flexibler, effizi
 ## Projektstatus
 
 Im Moment ist dieses Projekt noch eine Idee. Ich habe bereits einige Codezeilen und -schnipsel im Kopf, aber es muss noch einiges an Vorarbeit geleistet werden.
+
+Mithilfe ist erwünscht. Derzeit gibt es eine (unvollständige) Liste von [Apps](https://unified-transport-api.linuxundmehr.de/collected-data-apps/) und [Transportunternehmen](https://unified-transport-api.linuxundmehr.de/collected-data-companies/) - bitte helft, diese zu vervollständigen!
 
 Weiteres in der Doku:
 - [Beschreibung der Datenstruktur](docu/de/json_aufbau_de.md)
