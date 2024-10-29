@@ -26,5 +26,5 @@ Im Moment ist dieses Projekt noch eine Idee. Ich habe bereits einige Codezeilen 
 
 Mithilfe ist erwünscht. Derzeit gibt es eine (unvollständige) Liste von [Apps](https://unified-transport-api.linuxundmehr.de/collected-data-apps/) und [Transportunternehmen](https://unified-transport-api.linuxundmehr.de/collected-data-companies/) - bitte helft, diese zu vervollständigen!
 
-Weiteres in der Doku:
+Die Doku:
 - [Beschreibung der Datenstruktur](docu/de/json_aufbau_de.md)

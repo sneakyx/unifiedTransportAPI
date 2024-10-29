@@ -1,8 +1,9 @@
-
 # JSON-Dateien im Projekt - Struktur und Aufbau
 
 Die JSON-Dateien in diesem Projekt sind in einer klar strukturierten Ordnerstruktur angelegt, um verschiedene Regionen, Plattformen und Transporttypen geordnet darzustellen.
-
+Wenn jemand Daten hinzufügen möchte, bitte ich darum, dass auf der Projektwebseite zu tun. In Zukunft werden diese Daten auch direkt in einer Datenbank verwaltet.
+- [Liste der bisher gesammelten Apps](https://unified-transport-api.linuxundmehr.de/collected-data-apps/)
+- [Liste der bisher gesammelten Transportunernehmen](https://unified-transport-api.linuxundmehr.de/collected-data-companies/)
 ## 1. Ordnerstruktur
 
 - [**general/**](../../data/general): Enthält allgemeine Dateien wie `transport_types.json` und `platforms.json`, die universell für alle Regionen und Projekte gültig sind.

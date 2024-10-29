@@ -1,7 +1,11 @@
-
 # JSON Files in the Project - Structure and Setup
 
 The JSON files in this project are organized in a structured folder system to manage various regions, platforms, and transport types.
+
+If anyone would like to add data, please do so on the project website. In the future, this data will also be managed directly in a database.
+- [List of apps collected so far](https://unified-transport-api.linuxundmehr.de/collected-data-apps/)
+- [List of transport companies collected so far](https://unified-transport-api.linuxundmehr.de/collected-data-companies/)
+
 
 ## 1. Folder Structure
 
